@@ -1,7 +1,7 @@
 Using the ``youtube_dl`` module
 ===============================
 
-When using the ``youtube_dl`` module, you start by creating an instance of :class:`YoutubeDL` and adding all the available extractors:
+When using the ``youtube_dl`` module, you start by creating an instance of my :class:`YoutubeDL` and adding all the available extractors:
 
 .. code-block:: python
 
